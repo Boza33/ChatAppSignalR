@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kumov\\OneDrive\\\u0420\u0430\u0434\u043D\u0430 \u043F\u043E\u0432\u0440\u0448\u0438\u043D\u0430\\ChatApp SignalR\\ChatAppSignalR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34633FD5-1B1C-42EE-8AD1-F72FEAAC133E}|ChatApp.csproj|c:\\users\\kumov\\onedrive\\\u0440\u0430\u0434\u043D\u0430 \u043F\u043E\u0432\u0440\u0448\u0438\u043D\u0430\\chatapp signalr\\chatappsignalr\\chat.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34633FD5-1B1C-42EE-8AD1-F72FEAAC133E}|ChatApp.csproj|solutionrelative:chat.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34633FD5-1B1C-42EE-8AD1-F72FEAAC133E}|ChatApp.csproj|c:\\users\\kumov\\onedrive\\\u0440\u0430\u0434\u043D\u0430 \u043F\u043E\u0432\u0440\u0448\u0438\u043D\u0430\\chatapp signalr\\chatappsignalr\\chat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{34633FD5-1B1C-42EE-8AD1-F72FEAAC133E}|ChatApp.csproj|solutionrelative:chat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34633FD5-1B1C-42EE-8AD1-F72FEAAC133E}|ChatApp.csproj|C:\\Users\\kumov\\OneDrive\\\u0420\u0430\u0434\u043D\u0430 \u043F\u043E\u0432\u0440\u0448\u0438\u043D\u0430\\ChatApp SignalR\\ChatAppSignalR\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34633FD5-1B1C-42EE-8AD1-F72FEAAC133E}|ChatApp.csproj|solutionrelative:chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34633FD5-1B1C-42EE-8AD1-F72FEAAC133E}|ChatApp.csproj|C:\\Users\\kumov\\OneDrive\\\u0420\u0430\u0434\u043D\u0430 \u043F\u043E\u0432\u0440\u0448\u0438\u043D\u0430\\ChatApp SignalR\\ChatAppSignalR\\model\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34633FD5-1B1C-42EE-8AD1-F72FEAAC133E}|ChatApp.csproj|solutionrelative:model\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34633FD5-1B1C-42EE-8AD1-F72FEAAC133E}|ChatApp.csproj|C:\\Users\\kumov\\OneDrive\\\u0420\u0430\u0434\u043D\u0430 \u043F\u043E\u0432\u0440\u0448\u0438\u043D\u0430\\ChatApp SignalR\\ChatAppSignalR\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34633FD5-1B1C-42EE-8AD1-F72FEAAC133E}|ChatApp.csproj|solutionrelative:model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34633FD5-1B1C-42EE-8AD1-F72FEAAC133E}|ChatApp.csproj|C:\\Users\\kumov\\OneDrive\\\u0420\u0430\u0434\u043D\u0430 \u043F\u043E\u0432\u0440\u0448\u0438\u043D\u0430\\ChatApp SignalR\\ChatAppSignalR\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34633FD5-1B1C-42EE-8AD1-F72FEAAC133E}|ChatApp.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chat.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kumov\\OneDrive\\\u0420\u0430\u0434\u043D\u0430 \u043F\u043E\u0432\u0440\u0448\u0438\u043D\u0430\\ChatApp SignalR\\ChatAppSignalR\\Chat.aspx.cs",
+              "RelativeDocumentMoniker": "Chat.aspx.cs",
+              "ToolTip": "C:\\Users\\kumov\\OneDrive\\\u0420\u0430\u0434\u043D\u0430 \u043F\u043E\u0432\u0440\u0448\u0438\u043D\u0430\\ChatApp SignalR\\ChatAppSignalR\\Chat.aspx.cs",
+              "RelativeToolTip": "Chat.aspx.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAmwGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:58:51.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chat.aspx",
+              "DocumentMoniker": "C:\\Users\\kumov\\OneDrive\\\u0420\u0430\u0434\u043D\u0430 \u043F\u043E\u0432\u0440\u0448\u0438\u043D\u0430\\ChatApp SignalR\\ChatAppSignalR\\Chat.aspx",
+              "RelativeDocumentMoniker": "Chat.aspx",
+              "ToolTip": "C:\\Users\\kumov\\OneDrive\\\u0420\u0430\u0434\u043D\u0430 \u043F\u043E\u0432\u0440\u0448\u0438\u043D\u0430\\ChatApp SignalR\\ChatAppSignalR\\Chat.aspx",
+              "RelativeToolTip": "Chat.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-31T16:41:36.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\kumov\\OneDrive\\\u0420\u0430\u0434\u043D\u0430 \u043F\u043E\u0432\u0440\u0448\u0438\u043D\u0430\\ChatApp SignalR\\ChatAppSignalR\\Model\\Users.cs",
+              "RelativeDocumentMoniker": "Model\\Users.cs",
+              "ToolTip": "C:\\Users\\kumov\\OneDrive\\\u0420\u0430\u0434\u043D\u0430 \u043F\u043E\u0432\u0440\u0448\u0438\u043D\u0430\\ChatApp SignalR\\ChatAppSignalR\\Model\\Users.cs",
+              "RelativeToolTip": "Model\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:33:30.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\kumov\\OneDrive\\\u0420\u0430\u0434\u043D\u0430 \u043F\u043E\u0432\u0440\u0448\u0438\u043D\u0430\\ChatApp SignalR\\ChatAppSignalR\\Model\\Messages.cs",
+              "RelativeDocumentMoniker": "Model\\Messages.cs",
+              "ToolTip": "C:\\Users\\kumov\\OneDrive\\\u0420\u0430\u0434\u043D\u0430 \u043F\u043E\u0432\u0440\u0448\u0438\u043D\u0430\\ChatApp SignalR\\ChatAppSignalR\\Model\\Messages.cs",
+              "RelativeToolTip": "Model\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:32:57.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\kumov\\OneDrive\\\u0420\u0430\u0434\u043D\u0430 \u043F\u043E\u0432\u0440\u0448\u0438\u043D\u0430\\ChatApp SignalR\\ChatAppSignalR\\ChatHub.cs",
+              "RelativeDocumentMoniker": "ChatHub.cs",
+              "ToolTip": "C:\\Users\\kumov\\OneDrive\\\u0420\u0430\u0434\u043D\u0430 \u043F\u043E\u0432\u0440\u0448\u0438\u043D\u0430\\ChatApp SignalR\\ChatAppSignalR\\ChatHub.cs",
+              "RelativeToolTip": "ChatHub.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAmwEkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:22:20.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kumov\\OneDrive\\\u0420\u0430\u0434\u043D\u0430 \u043F\u043E\u0432\u0440\u0448\u0438\u043D\u0430\\ChatApp SignalR\\ChatAppSignalR\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "C:\\Users\\kumov\\OneDrive\\\u0420\u0430\u0434\u043D\u0430 \u043F\u043E\u0432\u0440\u0448\u0438\u043D\u0430\\ChatApp SignalR\\ChatAppSignalR\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:08:48.246Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
