@@ -47,16 +47,14 @@
           </div>
            
         </div>
-        <!-- /.col -->
+     
         <div class="col-xs-4">
           <button type="submit" class="btn btn-primary btn-block btn-flat" id="btnRegister" runat="server" onserverclick="btnRegister_ServerClick">Register</button>
         </div>
-        <!-- /.col -->
       </div>
-   
+
     <a href="Login.aspx" class="text-center">I already have an account</a>
   </div>
-  <!-- /.form-box -->
 </div>
 
     </form>

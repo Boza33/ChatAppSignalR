@@ -9,7 +9,7 @@ namespace ChatApp
 {
     public partial class Login : System.Web.UI.Page
     {
-        //Class Object  
+
         ConnectionClass ConnC = new ConnectionClass();
         protected void Page_Load(object sender, EventArgs e)
         {

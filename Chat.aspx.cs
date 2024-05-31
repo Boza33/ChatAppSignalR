@@ -58,7 +58,6 @@ namespace ChatApp
         {
 
             string serverPath = HttpContext.Current.Server.MapPath("~/");
-            //path = serverPath + path;
             if (FileUpload1.HasFile)
             {
                 string FileWithPat = serverPath + @"images/DP/" + UserName + FileUpload1.FileName;
@@ -117,11 +116,7 @@ namespace ChatApp
 
         #endregion
 
-        protected void FileUploadComplete(object sender, EventArgs e)
-        {
-            string filename = System.IO.Path.GetFileName(AsyncFileUpload1.FileName);
-            AsyncFileUpload1.SaveAs(Server.MapPath(this.UploadFolderPath) + filename);
-        }
+       
 
     }
 }

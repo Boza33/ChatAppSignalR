@@ -17,7 +17,6 @@
             <div class="login-logo">
                 <a href="Login.aspx"><b>SignalR </b>Chat App</a>
             </div>
-            <!-- /.login-logo -->
             <div class="login-box-body">
                 <p class="login-box-msg">Please Login to Proceed</p>
                <div class="form-group has-feedback">
@@ -29,8 +28,7 @@
                     <span class="fa fa-lock form-control-feedback"></span>
                 </div>
                 <div class="row">
-                 
-                    <!-- /.col -->
+
                     <div class="col-xs-4">
                         <asp:Button ID="btnSignIn" runat="server" OnClick="btnSignIn_Click" Text="Login" CssClass="btn btn-success btn-block btn-flat" /><br />
 
@@ -40,12 +38,10 @@
                         <a href="Register.aspx" class="btn btn-primary btn-block btn-flat">New User - Registration</a>
 
                     </div>
-                    <!-- /.col -->
                 </div>
            
                
             </div>
-            <!-- /.login-box-body -->
         </div>
     </form>
     <script src="plugins/jquery-1.9.1.min"></script>
