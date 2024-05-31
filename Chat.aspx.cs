@@ -15,6 +15,7 @@ namespace ChatApp
     {
         public string UserName = "admin";
         public string UserImage = "/images/DP/dummy.png";
+        protected string UploadFolderPath = "~/Uploads/";
         ConnectionClass ConnC = new ConnectionClass();
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -96,6 +97,11 @@ namespace ChatApp
                 return cpy;
             }
 
+        }
+        protected void FileUploadComplete(object sender, EventArgs e)
+        {
+            string filename = System.IO.Path.GetFileName(AsyncFileUpload1.FileName);
+            AsyncFileUpload1.SaveAs(Server.MapPath(this.UploadFolderPath) + filename);
         }
 
 
