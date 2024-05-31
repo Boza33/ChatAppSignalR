@@ -1,13 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Drawing.Drawing2D;
 using System.Drawing;
+using System.Drawing.Drawing2D;
 using System.IO;
 using System.Linq;
 using System.Web;
+using System.Web.Services;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using SD = System.Drawing;
+using System.Web.UI.HtmlControls;
+using AjaxControlToolkit;
 
 namespace ChatApp
 {
@@ -26,6 +29,8 @@ namespace ChatApp
             }
             else
                 Response.Redirect("Login.aspx");
+
+            this.Header.DataBind();
         }
 
         protected void btnSignOut_Click(object sender, EventArgs e)
@@ -45,6 +50,8 @@ namespace ChatApp
                 if (ImageName != "")
                     UserImage = "images/DP/" + ImageName;
             }
+
+
         }
 
         protected void btnChangePicModel_Click(object sender, EventArgs e)
@@ -70,6 +77,9 @@ namespace ChatApp
                 }
             }
         }
+
+
+        #region Resize Image With Best Qaulity
 
         private SD.Image RezizeImage(SD.Image img, int maxWidth, int maxHeight)
         {
@@ -98,16 +108,20 @@ namespace ChatApp
             }
 
         }
+
+        private MemoryStream BytearrayToStream(byte[] arr)
+        {
+            return new MemoryStream(arr, 0, arr.Length);
+        }
+
+
+        #endregion
+
         protected void FileUploadComplete(object sender, EventArgs e)
         {
             string filename = System.IO.Path.GetFileName(AsyncFileUpload1.FileName);
             AsyncFileUpload1.SaveAs(Server.MapPath(this.UploadFolderPath) + filename);
         }
-
-
-
-
-
 
     }
 }
